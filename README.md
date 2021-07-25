@@ -4,3 +4,5 @@
 <br>
 <br>
 This ist the Code for your first Bot
+<br>
+Before you can run the command go to "shell" and type in `npm i discord.js`
